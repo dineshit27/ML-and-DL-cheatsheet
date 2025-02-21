@@ -17,10 +17,6 @@ Looking for a new job? Take Triplebyte’s <a href="https://triplebyte.com/a/ZYA
 
 ![tensorflow-1](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/screenshots/tensorflow1.png)
 
-Medium Article: https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
-
-![medium-article](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/screenshots/medium-article.png)
-
 Reddit Thread: https://www.reddit.com/r/Python/comments/cyslju/ai_cheatsheets_now_learn_tensorflow_keras_pytorch/?utm_source=share&utm_medium=web2x
 
 ![reddit-post](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/screenshots/reddit-post.png)
